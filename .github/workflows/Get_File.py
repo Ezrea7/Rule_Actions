@@ -8,12 +8,6 @@ print (os.getcwd())
 os.chdir("./Rules")
 
 RULE_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/"
-REJECT_RULES = {
-    "Advertising": RULE_URL + "Advertising/Advertising.list",
-    "Advertising_Domain": RULE_URL + "Advertising/Advertising_Domain.list",
-    "Privacy": RULE_URL + "Privacy/Privacy.list",
-    "Privacy_Domain": RULE_URL + "Privacy/Privacy_Domain.list"
-}
 PROXY_RULES = {
     "GlobalMedia": RULE_URL + "GlobalMedia/GlobalMedia.list",
     "GlobalMedia_Domain": RULE_URL + "GlobalMedia/GlobalMedia_Domain.list",
@@ -48,13 +42,11 @@ def remove():
     """
     移除所有规则文件
     """
-    shutil.rmtree("Reject-Rule")
     shutil.rmtree("Proxy-Rule")
     shutil.rmtree("Direct-Rule")
     print("移除所有文件夹")
 
 if __name__ == '__main__':
     remove()
-    load_file(REJECT_RULES, "Reject-Rule")
     load_file(PROXY_RULES, "Proxy-Rule")
     load_file(DIRECT_RULES, "Direct-Rule")
