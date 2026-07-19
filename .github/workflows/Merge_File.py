@@ -4,7 +4,7 @@ print (os.getcwd())
 os.chdir("./Rules")
 
 # 文件夹列表
-file_paths = ["Direct-Rule", "Proxy-Rule", "Reject-Rule"]
+file_paths = ["Direct-Rule", "Proxy-Rule"]
 
 
 def merge_and_deduplicate_files(path):
