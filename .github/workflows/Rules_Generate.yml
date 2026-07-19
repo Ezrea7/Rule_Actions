@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 1 * * *'
   pull_request:
-    branches: [ "Rules_Actions" ]
+    branches: [ "GitHub" ]
   repository_dispatch:
     types: [bot_trigger]
   workflow_dispatch:
@@ -39,5 +39,5 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GIT_TOKEN }}
-          branch: Rules_Actions
+          branch: GitHub
           force: false
