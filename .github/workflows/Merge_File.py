@@ -1,7 +1,7 @@
 import os
 
 print (os.getcwd())
-os.chdir("./rule")
+os.chdir("./Rules")
 
 # 文件夹列表
 file_paths = ["Direct-Rule", "Proxy-Rule", "Reject-Rule"]
