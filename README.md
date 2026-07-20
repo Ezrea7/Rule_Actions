@@ -8,7 +8,9 @@
 
 
 
-iOS平台上的Quantumultx、Loon、Stash、Shadowrocket等软件规则、规则每日更新。
+## Egern分流规则、规则每日更新。
+
+其他软件禁止使用！
 
 
 # 远程规则文件
@@ -17,9 +19,9 @@ iOS平台上的Quantumultx、Loon、Stash、Shadowrocket等软件规则、规则
 
 
 
-国内直连（Direct）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Rules/Direct-Rule/Direct-Rule.list
+国内直连（Direct）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Rules/Direct-Rule/Direct-Rule.yaml
 
-国际加速（Proxy）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Rules/Proxy-Rule/Proxy-Rule.list
+国际加速（Proxy）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Rules/Proxy-Rule/Proxy-Rule.yaml
 
 
 
