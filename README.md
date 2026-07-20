@@ -15,7 +15,6 @@ iOS平台上的Quantumultx、Loon、Stash、Shadowrocket等软件规则、规则
 
 每日自动更新。两大基础规则，满足一切需求。
 
-2、规则list文件一般通用于Quantumultx、Loon、Stash、Shadowrocket等，部分软件语法用法略用差异。
 
 
 国内直连（Direct）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/TooLs_Rules/refs/heads/main/rule/Direct-Rule/Direct-Rule.list
