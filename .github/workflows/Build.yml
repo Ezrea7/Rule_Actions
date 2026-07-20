@@ -35,7 +35,7 @@ jobs:
             git config --local user.name "${{ github.actor }}"
             git add -A
             git commit -m "$(date +'%Y-%m-%d %H:%M:%S')"
-            git push origin master
+            git push origin GitHub
           else
             echo "No Repository Update Detected."
           fi
