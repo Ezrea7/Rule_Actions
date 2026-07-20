@@ -7,7 +7,7 @@ import requests
 print (os.getcwd())
 os.chdir("./Rules")
 
-RULE_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/"
+RULE_URL = "https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/"
 PROXY_RULES = {
     "YouTube": RULE_URL + "YouTube/YouTube.yaml",
     "Twitch": RULE_URL + "Twitch/Twitch.yaml",
@@ -37,8 +37,7 @@ PROXY_RULES = {
     "GlobalMedia": RULE_URL + "GlobalMedia/GlobalMedia.yaml"
 }
 DIRECT_RULES = {
-    "China": RULE_URL + "China/China.list",
-    "China_Domain": RULE_URL + "China/China_Domain.list"
+    "China": RULE_URL + "China/China.yaml",
 }
 
 HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
