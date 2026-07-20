@@ -3,42 +3,53 @@ name: Build
 on:
   workflow_dispatch:
   schedule:
-    - cron: "50 23 * * *"
+    - cron: "50 15 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     env:
       TZ: "Asia/Shanghai"
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v7
 
-      - name: Checkout Repository
+    steps:
+      - name: Checkout Current Repository
+        uses: actions/checkout@v7
+        with:
+          ref: GitHub
+
+      - name: Checkout Upstream Rules
         uses: actions/checkout@v7
         with:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
 
-      - name: Process Ruleset
+      - name: Process Source Ruleset
         run: |
           python .github/workflows/Build.py Source
 
-      - name: Convert Ruleset
+      - name: Convert Egern Ruleset
         run: |
           python .github/workflows/Build.py Egern Egern
 
       - name: Push Change
         run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git config --local user.email "${{ github.actor }}@users.noreply.github.com"
-            git config --local user.name "${{ github.actor }}"
-            git add -A
-            git commit -m "$(date +'%Y-%m-%d %H:%M:%S')"
-            git push origin GitHub
-          else
+          git add -A
+
+          if git diff --cached --quiet; then
             echo "No Repository Update Detected."
+            exit 0
           fi
+
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --local user.name "${{ github.actor }}"
+
+          git commit -m "Update Egern rules"
+          git push origin GitHub
+
+      - name: Cleanup
+        run: |
+          rm -rf ios_rule_script
 
       - name: Delete Workflow Run
         uses: Mattraks/delete-workflow-runs@main
