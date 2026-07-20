@@ -178,7 +178,7 @@ def convert_egern(file_path: Path):
         )
 
         f.write(
-            "https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/"
+            "https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/"
             f"{relative_yaml.as_posix()}"
         )
 
