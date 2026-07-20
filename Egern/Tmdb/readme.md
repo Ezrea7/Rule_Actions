@@ -1,3 +1,3 @@
 # 🧸 Tmdb
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Tmdb/Tmdb.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Tmdb/Tmdb.yaml

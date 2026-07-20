@@ -1,3 +1,3 @@
 # 🧸 TencentCloud
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Cloud/TencentCloud/TencentCloud.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Cloud/TencentCloud/TencentCloud.yaml

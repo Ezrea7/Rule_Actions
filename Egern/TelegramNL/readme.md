@@ -1,3 +1,3 @@
 # 🧸 TelegramNL
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TelegramNL/TelegramNL.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/TelegramNL/TelegramNL.yaml

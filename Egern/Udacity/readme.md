@@ -1,3 +1,3 @@
 # 🧸 Udacity
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Udacity/Udacity.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Udacity/Udacity.yaml

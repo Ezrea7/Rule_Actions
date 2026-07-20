@@ -1,3 +1,3 @@
 # 🧸 Aerogard
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Aerogard/Aerogard.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Aerogard/Aerogard.yaml

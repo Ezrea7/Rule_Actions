@@ -1,3 +1,3 @@
 # 🧸 LanZouYun
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/LanZouYun/LanZouYun.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/LanZouYun/LanZouYun.yaml

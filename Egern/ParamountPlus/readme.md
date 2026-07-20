@@ -1,3 +1,3 @@
 # 🧸 ParamountPlus
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ParamountPlus/ParamountPlus.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ParamountPlus/ParamountPlus.yaml

@@ -1,3 +1,3 @@
 # 🧸 Clubhouse
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Clubhouse/Clubhouse.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Clubhouse/Clubhouse.yaml

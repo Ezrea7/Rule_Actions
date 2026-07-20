@@ -1,3 +1,3 @@
 # 🧸 ChinaIPsBGP
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ChinaIPsBGP/ChinaIPsBGP.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ChinaIPsBGP/ChinaIPsBGP.yaml

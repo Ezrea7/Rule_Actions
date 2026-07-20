@@ -1,3 +1,3 @@
 # 🧸 CNKI
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CNKI/CNKI.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/CNKI/CNKI.yaml

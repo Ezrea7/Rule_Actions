@@ -1,3 +1,3 @@
 # 🧸 Intercom
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Intercom/Intercom.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Intercom/Intercom.yaml

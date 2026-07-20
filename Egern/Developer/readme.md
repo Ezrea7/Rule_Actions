@@ -1,3 +1,3 @@
 # 🧸 Developer
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Developer/Developer.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Developer/Developer.yaml

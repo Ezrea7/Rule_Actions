@@ -1,3 +1,3 @@
 # 🧸 BBC
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/BBC/BBC.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/BBC/BBC.yaml

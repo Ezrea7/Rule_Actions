@@ -1,3 +1,3 @@
 # 🧸 Nikkei
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Nikkei/Nikkei.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Nikkei/Nikkei.yaml

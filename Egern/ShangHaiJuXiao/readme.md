@@ -1,3 +1,3 @@
 # 🧸 ShangHaiJuXiao
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ShangHaiJuXiao/ShangHaiJuXiao.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ShangHaiJuXiao/ShangHaiJuXiao.yaml

@@ -1,3 +1,3 @@
 # 🧸 All4
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/All4/All4.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/All4/All4.yaml

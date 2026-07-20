@@ -1,3 +1,3 @@
 # 🧸 ChinaIPsTest
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ChinaIPs/ChinaIPsTest/ChinaIPsTest.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ChinaIPs/ChinaIPsTest/ChinaIPsTest.yaml

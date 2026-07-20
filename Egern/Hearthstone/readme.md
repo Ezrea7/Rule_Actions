@@ -1,3 +1,3 @@
 # 🧸 Hearthstone
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Hearthstone/Hearthstone.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Hearthstone/Hearthstone.yaml

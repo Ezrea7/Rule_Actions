@@ -1,3 +1,3 @@
 # 🧸 Wikimedia
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Wikimedia/Wikimedia.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Wikimedia/Wikimedia.yaml

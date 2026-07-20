@@ -1,3 +1,3 @@
 # 🧸 KouDaiShiShang
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/KouDaiShiShang/KouDaiShiShang.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/KouDaiShiShang/KouDaiShiShang.yaml

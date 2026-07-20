@@ -1,3 +1,3 @@
 # 🧸 Espn
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Espn/Espn.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Espn/Espn.yaml

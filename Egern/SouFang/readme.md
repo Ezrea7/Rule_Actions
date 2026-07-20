@@ -1,3 +1,3 @@
 # 🧸 SouFang
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/SouFang/SouFang.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/SouFang/SouFang.yaml

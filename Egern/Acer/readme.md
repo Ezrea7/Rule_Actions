@@ -1,3 +1,3 @@
 # 🧸 Acer
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Acer/Acer.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Acer/Acer.yaml

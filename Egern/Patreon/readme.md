@@ -1,3 +1,3 @@
 # 🧸 Patreon
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Patreon/Patreon.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Patreon/Patreon.yaml

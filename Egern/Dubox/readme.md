@@ -1,3 +1,3 @@
 # 🧸 Dubox
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Dubox/Dubox.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Dubox/Dubox.yaml

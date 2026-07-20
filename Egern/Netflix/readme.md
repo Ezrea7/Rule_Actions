@@ -1,3 +1,3 @@
 # 🧸 Netflix
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Netflix/Netflix.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Netflix/Netflix.yaml

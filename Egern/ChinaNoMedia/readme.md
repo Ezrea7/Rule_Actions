@@ -1,3 +1,3 @@
 # 🧸 ChinaNoMedia
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ChinaNoMedia/ChinaNoMedia.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ChinaNoMedia/ChinaNoMedia.yaml

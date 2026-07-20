@@ -1,3 +1,3 @@
 # 🧸 HBOUSA
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HBOUSA/HBOUSA.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/HBOUSA/HBOUSA.yaml

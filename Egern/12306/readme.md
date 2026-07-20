@@ -1,3 +1,3 @@
 # 🧸 12306
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/12306/12306.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/12306/12306.yaml

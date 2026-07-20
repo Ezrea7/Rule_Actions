@@ -1,3 +1,3 @@
 # 🧸 Jwplayer
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Jwplayer/Jwplayer.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Jwplayer/Jwplayer.yaml

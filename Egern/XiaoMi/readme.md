@@ -1,3 +1,3 @@
 # 🧸 XiaoMi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/XiaoMi/XiaoMi.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/XiaoMi/XiaoMi.yaml

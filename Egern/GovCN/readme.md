@@ -1,3 +1,3 @@
 # 🧸 GovCN
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/GovCN/GovCN.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/GovCN/GovCN.yaml

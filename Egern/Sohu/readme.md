@@ -1,3 +1,3 @@
 # 🧸 Sohu
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Sohu/Sohu.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Sohu/Sohu.yaml

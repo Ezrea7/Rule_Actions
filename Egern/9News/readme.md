@@ -1,3 +1,3 @@
 # 🧸 9News
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/9News/9News.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/9News/9News.yaml

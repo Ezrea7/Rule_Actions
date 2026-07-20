@@ -1,3 +1,3 @@
 # 🧸 Mozilla
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Mozilla/Mozilla.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Mozilla/Mozilla.yaml

@@ -1,3 +1,3 @@
 # 🧸 Global
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Global/Global.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Global/Global.yaml

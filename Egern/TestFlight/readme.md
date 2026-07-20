@@ -1,3 +1,3 @@
 # 🧸 TestFlight
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TestFlight/TestFlight.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/TestFlight/TestFlight.yaml

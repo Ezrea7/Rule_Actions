@@ -1,3 +1,3 @@
 # 🧸 Manorama
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Manorama/Manorama.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Manorama/Manorama.yaml

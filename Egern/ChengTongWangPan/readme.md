@@ -1,3 +1,3 @@
 # 🧸 ChengTongWangPan
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ChengTongWangPan/ChengTongWangPan.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ChengTongWangPan/ChengTongWangPan.yaml

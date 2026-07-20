@@ -1,3 +1,3 @@
 # 🧸 Cnet
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Cnet/Cnet.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Cnet/Cnet.yaml

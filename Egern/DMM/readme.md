@@ -1,3 +1,3 @@
 # 🧸 DMM
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DMM/DMM.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/DMM/DMM.yaml

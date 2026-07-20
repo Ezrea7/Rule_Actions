@@ -1,3 +1,3 @@
 # 🧸 CBS
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CBS/CBS.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/CBS/CBS.yaml

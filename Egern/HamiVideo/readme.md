@@ -1,3 +1,3 @@
 # 🧸 HamiVideo
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HamiVideo/HamiVideo.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/HamiVideo/HamiVideo.yaml

@@ -1,3 +1,3 @@
 # 🧸 LivePerson
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/LivePerson/LivePerson.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/LivePerson/LivePerson.yaml

@@ -1,3 +1,3 @@
 # 🧸 BrightCove
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/BrightCove/BrightCove.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/BrightCove/BrightCove.yaml

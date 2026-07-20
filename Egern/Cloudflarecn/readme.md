@@ -1,3 +1,3 @@
 # 🧸 Cloudflarecn
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Cloudflarecn/Cloudflarecn.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Cloudflarecn/Cloudflarecn.yaml

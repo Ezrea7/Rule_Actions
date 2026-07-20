@@ -1,3 +1,3 @@
 # 🧸 Jquery
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Jquery/Jquery.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Jquery/Jquery.yaml

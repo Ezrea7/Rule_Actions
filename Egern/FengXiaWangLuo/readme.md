@@ -1,3 +1,3 @@
 # 🧸 FengXiaWangLuo
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/FengXiaWangLuo/FengXiaWangLuo.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/FengXiaWangLuo/FengXiaWangLuo.yaml

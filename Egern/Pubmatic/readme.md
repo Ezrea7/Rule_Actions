@@ -1,3 +1,3 @@
 # 🧸 Pubmatic
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Pubmatic/Pubmatic.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Pubmatic/Pubmatic.yaml

@@ -1,3 +1,3 @@
 # 🧸 2KGames
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/2KGames/2KGames.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/2KGames/2KGames.yaml

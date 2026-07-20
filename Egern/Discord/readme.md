@@ -1,3 +1,3 @@
 # 🧸 Discord
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Discord/Discord.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Discord/Discord.yaml

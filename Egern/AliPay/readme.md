@@ -1,3 +1,3 @@
 # 🧸 AliPay
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AliPay/AliPay.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/AliPay/AliPay.yaml

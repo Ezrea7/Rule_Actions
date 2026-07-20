@@ -1,3 +1,3 @@
 # 🧸 YunFanJiaSu
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/YunFanJiaSu/YunFanJiaSu.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/YunFanJiaSu/YunFanJiaSu.yaml

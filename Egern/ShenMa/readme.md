@@ -1,3 +1,3 @@
 # 🧸 ShenMa
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ShenMa/ShenMa.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ShenMa/ShenMa.yaml

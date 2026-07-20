@@ -1,3 +1,3 @@
 # 🧸 LeJu
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/LeJu/LeJu.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/LeJu/LeJu.yaml

@@ -1,3 +1,3 @@
 # 🧸 MeiTu
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/MeiTu/MeiTu.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/MeiTu/MeiTu.yaml

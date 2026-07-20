@@ -1,3 +1,3 @@
 # 🧸 XiaoGouKeJi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/XiaoGouKeJi/XiaoGouKeJi.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/XiaoGouKeJi/XiaoGouKeJi.yaml

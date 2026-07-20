@@ -1,3 +1,3 @@
 # 🧸 IPTVMainland
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/IPTVMainland/IPTVMainland.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/IPTVMainland/IPTVMainland.yaml

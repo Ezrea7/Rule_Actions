@@ -1,3 +1,3 @@
 # 🧸 TaiheMusic
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TaiheMusic/TaiheMusic.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/TaiheMusic/TaiheMusic.yaml

@@ -1,3 +1,3 @@
 # 🧸 WeChat
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/WeChat/WeChat.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/WeChat/WeChat.yaml

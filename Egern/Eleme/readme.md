@@ -1,3 +1,3 @@
 # 🧸 Eleme
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Eleme/Eleme.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Eleme/Eleme.yaml

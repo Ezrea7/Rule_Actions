@@ -1,3 +1,3 @@
 # 🧸 TigerFintech
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TigerFintech/TigerFintech.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/TigerFintech/TigerFintech.yaml

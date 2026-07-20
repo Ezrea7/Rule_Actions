@@ -1,3 +1,3 @@
 # 🧸 HuanJu
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HuanJu/HuanJu.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/HuanJu/HuanJu.yaml

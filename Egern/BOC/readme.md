@@ -1,3 +1,3 @@
 # 🧸 BOC
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/BOC/BOC.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/BOC/BOC.yaml

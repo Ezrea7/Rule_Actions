@@ -1,3 +1,3 @@
 # 🧸 DianCeWangKe
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DianCeWangKe/DianCeWangKe.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/DianCeWangKe/DianCeWangKe.yaml

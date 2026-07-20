@@ -1,3 +1,3 @@
 # 🧸 Westerndigital
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Westerndigital/Westerndigital.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Westerndigital/Westerndigital.yaml

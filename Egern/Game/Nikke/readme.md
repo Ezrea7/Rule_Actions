@@ -1,3 +1,3 @@
 # 🧸 Nikke
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Game/Nikke/Nikke.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Game/Nikke/Nikke.yaml

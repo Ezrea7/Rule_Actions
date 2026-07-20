@@ -1,3 +1,3 @@
 # 🧸 U17
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/U17/U17.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/U17/U17.yaml

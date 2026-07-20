@@ -1,3 +1,3 @@
 # 🧸 Niconico
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Niconico/Niconico.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Niconico/Niconico.yaml

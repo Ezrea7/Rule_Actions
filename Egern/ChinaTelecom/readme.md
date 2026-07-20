@@ -1,3 +1,3 @@
 # 🧸 ChinaTelecom
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ChinaTelecom/ChinaTelecom.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ChinaTelecom/ChinaTelecom.yaml

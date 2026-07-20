@@ -1,3 +1,3 @@
 # 🧸 AppleDaily
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AppleDaily/AppleDaily.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/AppleDaily/AppleDaily.yaml

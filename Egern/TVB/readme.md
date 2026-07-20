@@ -1,3 +1,3 @@
 # 🧸 TVB
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TVB/TVB.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/TVB/TVB.yaml

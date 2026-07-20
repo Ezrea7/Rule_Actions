@@ -1,3 +1,3 @@
 # 🧸 Coolapk
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Coolapk/Coolapk.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Coolapk/Coolapk.yaml

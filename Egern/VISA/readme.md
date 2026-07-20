@@ -1,3 +1,3 @@
 # 🧸 VISA
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/VISA/VISA.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/VISA/VISA.yaml

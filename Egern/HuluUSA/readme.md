@@ -1,3 +1,3 @@
 # 🧸 HuluUSA
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HuluUSA/HuluUSA.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/HuluUSA/HuluUSA.yaml

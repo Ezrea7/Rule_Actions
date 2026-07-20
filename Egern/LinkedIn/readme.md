@@ -1,3 +1,3 @@
 # 🧸 LinkedIn
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/LinkedIn/LinkedIn.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/LinkedIn/LinkedIn.yaml

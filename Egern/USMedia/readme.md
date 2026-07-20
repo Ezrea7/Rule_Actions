@@ -1,3 +1,3 @@
 # 🧸 USMedia
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/USMedia/USMedia.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/USMedia/USMedia.yaml

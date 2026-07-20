@@ -1,3 +1,3 @@
 # 🧸 Baidu
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Baidu/Baidu.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Baidu/Baidu.yaml

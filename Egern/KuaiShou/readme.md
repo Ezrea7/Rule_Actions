@@ -1,3 +1,3 @@
 # 🧸 KuaiShou
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/KuaiShou/KuaiShou.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/KuaiShou/KuaiShou.yaml

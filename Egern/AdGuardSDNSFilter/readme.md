@@ -1,3 +1,3 @@
 # 🧸 AdGuardSDNSFilter
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AdGuardSDNSFilter/AdGuardSDNSFilter.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/AdGuardSDNSFilter/AdGuardSDNSFilter.yaml

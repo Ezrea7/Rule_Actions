@@ -1,3 +1,3 @@
 # 🧸 DiabloIII
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DiabloIII/DiabloIII.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/DiabloIII/DiabloIII.yaml

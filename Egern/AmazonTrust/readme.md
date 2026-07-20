@@ -1,3 +1,3 @@
 # 🧸 AmazonTrust
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AmazonTrust/AmazonTrust.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/AmazonTrust/AmazonTrust.yaml

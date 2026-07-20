@@ -1,3 +1,3 @@
 # 🧸 NBC
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/NBC/NBC.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/NBC/NBC.yaml

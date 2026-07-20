@@ -1,3 +1,3 @@
 # 🧸 Jfrog
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Jfrog/Jfrog.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Jfrog/Jfrog.yaml

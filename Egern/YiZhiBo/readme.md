@@ -1,3 +1,3 @@
 # 🧸 YiZhiBo
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/YiZhiBo/YiZhiBo.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/YiZhiBo/YiZhiBo.yaml

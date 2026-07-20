@@ -1,3 +1,3 @@
 # 🧸 Sina
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Sina/Sina.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Sina/Sina.yaml

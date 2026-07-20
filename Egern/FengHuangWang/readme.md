@@ -1,3 +1,3 @@
 # 🧸 FengHuangWang
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/FengHuangWang/FengHuangWang.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/FengHuangWang/FengHuangWang.yaml

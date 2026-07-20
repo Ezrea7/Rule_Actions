@@ -1,3 +1,3 @@
 # 🧸 WangXinKeJi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/WangXinKeJi/WangXinKeJi.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/WangXinKeJi/WangXinKeJi.yaml

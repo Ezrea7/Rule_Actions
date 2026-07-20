@@ -1,3 +1,3 @@
 # 🧸 SMZDM
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/SMZDM/SMZDM.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/SMZDM/SMZDM.yaml

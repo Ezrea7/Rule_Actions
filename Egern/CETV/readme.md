@@ -1,3 +1,3 @@
 # 🧸 CETV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CETV/CETV.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/CETV/CETV.yaml

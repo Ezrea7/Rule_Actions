@@ -1,3 +1,3 @@
 # 🧸 Bing
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Bing/Bing.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Bing/Bing.yaml

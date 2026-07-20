@@ -1,3 +1,3 @@
 # 🧸 TianWeiChengXin
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TianWeiChengXin/TianWeiChengXin.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/TianWeiChengXin/TianWeiChengXin.yaml

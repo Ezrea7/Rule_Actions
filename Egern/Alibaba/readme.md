@@ -1,3 +1,3 @@
 # 🧸 Alibaba
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Alibaba/Alibaba.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Alibaba/Alibaba.yaml

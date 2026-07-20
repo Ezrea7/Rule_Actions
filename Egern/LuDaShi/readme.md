@@ -1,3 +1,3 @@
 # 🧸 LuDaShi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/LuDaShi/LuDaShi.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/LuDaShi/LuDaShi.yaml

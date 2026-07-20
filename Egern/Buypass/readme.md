@@ -1,3 +1,3 @@
 # 🧸 Buypass
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Buypass/Buypass.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Buypass/Buypass.yaml

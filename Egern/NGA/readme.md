@@ -1,3 +1,3 @@
 # 🧸 NGA
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/NGA/NGA.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/NGA/NGA.yaml

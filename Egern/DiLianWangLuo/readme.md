@@ -1,3 +1,3 @@
 # 🧸 DiLianWangLuo
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DiLianWangLuo/DiLianWangLuo.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/DiLianWangLuo/DiLianWangLuo.yaml

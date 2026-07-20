@@ -1,3 +1,3 @@
 # 🧸 Disney
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Disney/Disney.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Disney/Disney.yaml

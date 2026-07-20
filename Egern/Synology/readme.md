@@ -1,3 +1,3 @@
 # 🧸 Synology
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Synology/Synology.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Synology/Synology.yaml

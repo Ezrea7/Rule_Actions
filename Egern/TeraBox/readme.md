@@ -1,3 +1,3 @@
 # 🧸 TeraBox
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TeraBox/TeraBox.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/TeraBox/TeraBox.yaml

@@ -1,3 +1,3 @@
 # 🧸 BritboxUK
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/BritboxUK/BritboxUK.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/BritboxUK/BritboxUK.yaml

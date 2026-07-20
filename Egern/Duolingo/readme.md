@@ -1,3 +1,3 @@
 # 🧸 Duolingo
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Duolingo/Duolingo.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Duolingo/Duolingo.yaml

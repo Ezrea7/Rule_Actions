@@ -1,3 +1,3 @@
 # 🧸 Intel
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Intel/Intel.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Intel/Intel.yaml

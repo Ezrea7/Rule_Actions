@@ -1,3 +1,3 @@
 # 🧸 DouYin
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DouYin/DouYin.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/DouYin/DouYin.yaml

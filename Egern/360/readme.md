@@ -1,3 +1,3 @@
 # 🧸 360
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/360/360.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/360/360.yaml

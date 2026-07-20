@@ -1,3 +1,3 @@
 # 🧸 KuKeMusic
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/KuKeMusic/KuKeMusic.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/KuKeMusic/KuKeMusic.yaml

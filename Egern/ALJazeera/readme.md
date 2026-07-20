@@ -1,3 +1,3 @@
 # 🧸 ALJazeera
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ALJazeera/ALJazeera.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ALJazeera/ALJazeera.yaml

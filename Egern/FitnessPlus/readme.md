@@ -1,3 +1,3 @@
 # 🧸 FitnessPlus
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/FitnessPlus/FitnessPlus.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/FitnessPlus/FitnessPlus.yaml

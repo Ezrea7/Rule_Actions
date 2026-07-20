@@ -1,3 +1,3 @@
 # 🧸 Cloudflare
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Cloudflare/Cloudflare.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Cloudflare/Cloudflare.yaml

@@ -1,3 +1,3 @@
 # 🧸 AmazonIP
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AmazonIP/AmazonIP.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/AmazonIP/AmazonIP.yaml

@@ -1,3 +1,3 @@
 # 🧸 KuangShi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/KuangShi/KuangShi.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/KuangShi/KuangShi.yaml

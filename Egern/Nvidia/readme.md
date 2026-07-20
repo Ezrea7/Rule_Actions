@@ -1,3 +1,3 @@
 # 🧸 Nvidia
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Nvidia/Nvidia.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Nvidia/Nvidia.yaml

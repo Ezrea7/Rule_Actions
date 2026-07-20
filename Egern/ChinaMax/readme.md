@@ -1,3 +1,3 @@
 # 🧸 ChinaMax
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ChinaMax/ChinaMax.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ChinaMax/ChinaMax.yaml

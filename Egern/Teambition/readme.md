@@ -1,3 +1,3 @@
 # 🧸 Teambition
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Teambition/Teambition.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Teambition/Teambition.yaml

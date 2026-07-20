@@ -1,3 +1,3 @@
 # 🧸 Naver
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Naver/Naver.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Naver/Naver.yaml

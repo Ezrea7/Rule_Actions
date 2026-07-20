@@ -1,3 +1,3 @@
 # 🧸 BaiShanYunKeJi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/BaiShanYunKeJi/BaiShanYunKeJi.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/BaiShanYunKeJi/BaiShanYunKeJi.yaml

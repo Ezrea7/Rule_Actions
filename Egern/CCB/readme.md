@@ -1,3 +1,3 @@
 # 🧸 CCB
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CCB/CCB.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/CCB/CCB.yaml

@@ -1,3 +1,3 @@
 # 🧸 Himalaya
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Himalaya/Himalaya.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Himalaya/Himalaya.yaml

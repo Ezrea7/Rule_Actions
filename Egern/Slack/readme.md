@@ -1,3 +1,3 @@
 # 🧸 Slack
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Slack/Slack.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Slack/Slack.yaml

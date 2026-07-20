@@ -1,3 +1,3 @@
 # 🧸 HibyMusic
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HibyMusic/HibyMusic.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/HibyMusic/HibyMusic.yaml

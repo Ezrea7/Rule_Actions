@@ -1,3 +1,3 @@
 # 🧸 Shopify
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Shopify/Shopify.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Shopify/Shopify.yaml

@@ -1,3 +1,3 @@
 # 🧸 AdvertisingTest
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AdvertisingTest/AdvertisingTest.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/AdvertisingTest/AdvertisingTest.yaml

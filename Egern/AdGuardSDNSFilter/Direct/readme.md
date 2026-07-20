@@ -1,3 +1,3 @@
 # 🧸 Direct
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AdGuardSDNSFilter/Direct/Direct.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/AdGuardSDNSFilter/Direct/Direct.yaml

@@ -1,3 +1,3 @@
 # 🧸 VK
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/VK/VK.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/VK/VK.yaml

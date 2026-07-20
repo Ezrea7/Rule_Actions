@@ -1,3 +1,3 @@
 # 🧸 Jsdelivr
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Jsdelivr/Jsdelivr.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Jsdelivr/Jsdelivr.yaml

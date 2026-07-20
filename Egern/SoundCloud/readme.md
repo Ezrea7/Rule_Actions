@@ -1,3 +1,3 @@
 # 🧸 SoundCloud
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/SoundCloud/SoundCloud.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/SoundCloud/SoundCloud.yaml

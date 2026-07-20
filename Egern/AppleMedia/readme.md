@@ -1,3 +1,3 @@
 # 🧸 AppleMedia
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AppleMedia/AppleMedia.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/AppleMedia/AppleMedia.yaml

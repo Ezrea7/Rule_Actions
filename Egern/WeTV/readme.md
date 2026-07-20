@@ -1,3 +1,3 @@
 # 🧸 WeTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/WeTV/WeTV.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/WeTV/WeTV.yaml

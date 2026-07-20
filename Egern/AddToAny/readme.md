@@ -1,3 +1,3 @@
 # 🧸 AddToAny
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AddToAny/AddToAny.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/AddToAny/AddToAny.yaml

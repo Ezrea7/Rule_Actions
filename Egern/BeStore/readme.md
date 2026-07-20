@@ -1,3 +1,3 @@
 # 🧸 BeStore
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/BeStore/BeStore.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/BeStore/BeStore.yaml

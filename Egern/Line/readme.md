@@ -1,3 +1,3 @@
 # 🧸 Line
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Line/Line.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Line/Line.yaml

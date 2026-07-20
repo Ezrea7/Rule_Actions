@@ -1,3 +1,3 @@
 # 🧸 Vancl
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Vancl/Vancl.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Vancl/Vancl.yaml

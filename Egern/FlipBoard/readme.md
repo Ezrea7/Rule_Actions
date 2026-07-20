@@ -1,3 +1,3 @@
 # 🧸 FlipBoard
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/FlipBoard/FlipBoard.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/FlipBoard/FlipBoard.yaml

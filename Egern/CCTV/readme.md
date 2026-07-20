@@ -1,3 +1,3 @@
 # 🧸 CCTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CCTV/CCTV.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/CCTV/CCTV.yaml

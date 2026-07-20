@@ -1,3 +1,3 @@
 # 🧸 Huawei
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Huawei/Huawei.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Huawei/Huawei.yaml

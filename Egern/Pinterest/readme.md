@@ -1,3 +1,3 @@
 # 🧸 Pinterest
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Pinterest/Pinterest.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Pinterest/Pinterest.yaml

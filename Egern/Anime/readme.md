@@ -1,3 +1,3 @@
 # 🧸 Anime
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Anime/Anime.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Anime/Anime.yaml

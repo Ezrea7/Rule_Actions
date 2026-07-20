@@ -1,3 +1,3 @@
 # 🧸 LianMeng
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/LianMeng/LianMeng.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/LianMeng/LianMeng.yaml

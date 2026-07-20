@@ -1,3 +1,3 @@
 # 🧸 TikTok
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TikTok/TikTok.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/TikTok/TikTok.yaml

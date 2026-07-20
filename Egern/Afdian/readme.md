@@ -1,3 +1,3 @@
 # 🧸 Afdian
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Afdian/Afdian.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Afdian/Afdian.yaml

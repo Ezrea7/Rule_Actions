@@ -1,3 +1,3 @@
 # 🧸 HP
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HP/HP.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/HP/HP.yaml

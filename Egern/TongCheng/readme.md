@@ -1,3 +1,3 @@
 # 🧸 TongCheng
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TongCheng/TongCheng.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/TongCheng/TongCheng.yaml

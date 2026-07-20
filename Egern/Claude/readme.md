@@ -1,3 +1,3 @@
 # 🧸 Claude
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Claude/Claude.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Claude/Claude.yaml

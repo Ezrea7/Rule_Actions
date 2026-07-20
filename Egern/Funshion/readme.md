@@ -1,3 +1,3 @@
 # 🧸 Funshion
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Funshion/Funshion.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Funshion/Funshion.yaml

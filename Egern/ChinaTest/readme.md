@@ -1,3 +1,3 @@
 # 🧸 ChinaTest
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ChinaTest/ChinaTest.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ChinaTest/ChinaTest.yaml

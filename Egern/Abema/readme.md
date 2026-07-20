@@ -1,3 +1,3 @@
 # 🧸 Abema
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Abema/Abema.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Abema/Abema.yaml

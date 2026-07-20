@@ -1,3 +1,3 @@
 # 🧸 Apkpure
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Apkpure/Apkpure.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Apkpure/Apkpure.yaml

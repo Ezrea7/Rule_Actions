@@ -1,3 +1,3 @@
 # 🧸 Supercell
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Supercell/Supercell.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Supercell/Supercell.yaml

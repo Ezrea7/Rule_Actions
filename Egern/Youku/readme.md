@@ -1,3 +1,3 @@
 # 🧸 Youku
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Youku/Youku.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Youku/Youku.yaml

@@ -1,3 +1,3 @@
 # 🧸 36kr
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/36kr/36kr.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/36kr/36kr.yaml

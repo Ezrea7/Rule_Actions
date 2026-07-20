@@ -1,3 +1,3 @@
 # 🧸 WeiZhiYunDong
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/WeiZhiYunDong/WeiZhiYunDong.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/WeiZhiYunDong/WeiZhiYunDong.yaml

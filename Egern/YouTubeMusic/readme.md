@@ -1,3 +1,3 @@
 # 🧸 YouTubeMusic
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/YouTubeMusic/YouTubeMusic.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/YouTubeMusic/YouTubeMusic.yaml

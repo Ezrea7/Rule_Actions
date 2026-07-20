@@ -1,3 +1,3 @@
 # 🧸 GlobalSign
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/GlobalSign/GlobalSign.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/GlobalSign/GlobalSign.yaml

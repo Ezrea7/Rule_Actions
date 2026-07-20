@@ -1,3 +1,3 @@
 # 🧸 QiNiuYun
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/QiNiuYun/QiNiuYun.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/QiNiuYun/QiNiuYun.yaml

@@ -1,3 +1,3 @@
 # 🧸 BardAI
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/BardAI/BardAI.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/BardAI/BardAI.yaml

@@ -1,3 +1,3 @@
 # 🧸 Geely
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Geely/Geely.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Geely/Geely.yaml

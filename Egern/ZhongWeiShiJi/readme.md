@@ -1,3 +1,3 @@
 # 🧸 ZhongWeiShiJi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ZhongWeiShiJi/ZhongWeiShiJi.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/ZhongWeiShiJi/ZhongWeiShiJi.yaml

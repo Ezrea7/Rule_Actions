@@ -1,3 +1,3 @@
 # 🧸 Deezer
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Deezer/Deezer.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Deezer/Deezer.yaml

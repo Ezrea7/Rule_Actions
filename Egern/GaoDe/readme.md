@@ -1,3 +1,3 @@
 # 🧸 GaoDe
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/GaoDe/GaoDe.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/GaoDe/GaoDe.yaml

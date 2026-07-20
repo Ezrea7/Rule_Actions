@@ -1,3 +1,3 @@
 # 🧸 Classic
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Classic/Classic.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Classic/Classic.yaml

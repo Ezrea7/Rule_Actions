@@ -1,3 +1,3 @@
 # 🧸 Crypto
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Crypto/Crypto.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Crypto/Crypto.yaml

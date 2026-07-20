@@ -1,3 +1,3 @@
 # 🧸 MeWatch
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/MeWatch/MeWatch.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/MeWatch/MeWatch.yaml

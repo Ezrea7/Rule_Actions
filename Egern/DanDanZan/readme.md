@@ -1,3 +1,3 @@
 # 🧸 DanDanZan
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DanDanZan/DanDanZan.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/DanDanZan/DanDanZan.yaml

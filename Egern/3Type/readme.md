@@ -1,3 +1,3 @@
 # 🧸 3Type
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/3Type/3Type.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/3Type/3Type.yaml

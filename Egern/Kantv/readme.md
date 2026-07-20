@@ -1,3 +1,3 @@
 # 🧸 Kantv
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Kantv/Kantv.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Kantv/Kantv.yaml

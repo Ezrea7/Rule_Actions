@@ -1,3 +1,3 @@
 # 🧸 HanYi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HanYi/HanYi.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/HanYi/HanYi.yaml

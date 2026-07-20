@@ -1,3 +1,3 @@
 # 🧸 EastMoney
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/EastMoney/EastMoney.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/EastMoney/EastMoney.yaml

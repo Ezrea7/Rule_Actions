@@ -1,3 +1,3 @@
 # 🧸 LastFM
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/LastFM/LastFM.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/LastFM/LastFM.yaml

@@ -1,3 +1,3 @@
 # 🧸 MEGA
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/MEGA/MEGA.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/MEGA/MEGA.yaml

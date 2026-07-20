@@ -1,3 +1,3 @@
 # 🧸 Keep
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Keep/Keep.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Keep/Keep.yaml

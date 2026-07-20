@@ -1,3 +1,3 @@
 # 🧸 Bestbuy
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Bestbuy/Bestbuy.yaml
+https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/Bestbuy/Bestbuy.yaml
