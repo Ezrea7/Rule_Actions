@@ -1,0 +1,47 @@
+name: Build
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0,12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: "Asia/Shanghai"
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+        with:
+          repository: blackmatrix7/ios_rule_script
+          path: ios_rule_script
+
+      - name: Process Ruleset
+        run: |
+          python .github/workflows/Build.py Source
+
+      - name: Convert Ruleset
+        run: |
+          python .github/workflows/Build.py Egern Egern
+
+      - name: Push Change
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+            git config --local user.name "${{ github.actor }}"
+            git add -A
+            git commit -m "$(date +'%Y-%m-%d %H:%M:%S')"
+            git push origin master
+          else
+            echo "No Repository Update Detected."
+          fi
+
+      - name: Delete Workflow Run
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 0
+          keep_minimum_runs: 2
