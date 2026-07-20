@@ -13,7 +13,7 @@ def merge_and_deduplicate_files(path):
     :param path: 文件夹路径
     :return:
     """
-    output_file_path = f"{path}/{os.path.basename(path)}.yaml"
+    output_file_path = f"{path}/{os.path.basename(path)}.list"
     with open(output_file_path, 'w', encoding='utf8') as out_f:
         data_set = set()
         for file_name in os.listdir(path):
