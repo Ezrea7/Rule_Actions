@@ -19,9 +19,9 @@
 
 
 
-国内直连（Direct）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Rules/Direct-Rule/Direct-Rule.yaml
+国内直连（Direct）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Rules/Direct-Rule/Direct-Rule.list
 
-国际加速（Proxy）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Rules/Proxy-Rule/Proxy-Rule.yaml
+国际加速（Proxy）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Rules/Proxy-Rule/Proxy-Rule.list
 
 
 
