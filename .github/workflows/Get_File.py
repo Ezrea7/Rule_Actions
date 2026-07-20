@@ -7,37 +7,18 @@ import requests
 print (os.getcwd())
 os.chdir("./Rules")
 
-RULE_URL = "https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/"
+RULE_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/"
 PROXY_RULES = {
-    "YouTube": RULE_URL + "YouTube/YouTube.yaml",
-    "Twitch": RULE_URL + "Twitch/Twitch.yaml",
-    "TikTok": RULE_URL + "TikTok/TikTok.yaml",
-    "Spotify": RULE_URL + "Spotify/Spotify.yaml",
-    "Proxy": RULE_URL + "Proxy/Proxy.yaml",
-    "PrimeVideo": RULE_URL + "PrimeVideo/PrimeVideo.yaml",
-    "PayPal": RULE_URL + "PayPal/PayPal.yaml",
-    "OneDrive": RULE_URL + "OneDrive/OneDrive.yaml",
-    "Niconico": RULE_URL + "Niconico/Niconico.yaml",
-    "Netflix": RULE_URL + "Netflix/Netflix.yaml",
-    "myTVSUPER": RULE_URL + "myTVSUPER/myTVSUPER.yaml",
-    "Microsoft": RULE_URL + "Microsoft/Microsoft.yaml",
-    "Hulu": RULE_URL + "Hulu/Hulu.yaml",
-    "HBO": RULE_URL + "HBO/HBO.yaml",
-    "GoogleFCM": RULE_URL + "GoogleFCM/GoogleFCM.yaml",
-    "Google": RULE_URL + "Google/Google.yaml",
-    "Gits": RULE_URL + "Gits/Gits.yaml",
-    "Games": RULE_URL + "Games/Games.yaml",
-    "Dmm": RULE_URL + "Dmm/Dmm.yaml",
-    "Disney": RULE_URL + "Disney/Disney.yaml",
-    "DAZN": RULE_URL + "DAZN/DAZN.yaml",
-    "Crypto": RULE_URL + "Crypto/Crypto.yaml",
-    "Bahamut": RULE_URL + "Bahamut/Bahamut.yaml",
-    "Abema": RULE_URL + "Abema/Abema.yaml",
-    "Global": RULE_URL + "Global/Global.yaml",
-    "GlobalMedia": RULE_URL + "GlobalMedia/GlobalMedia.yaml"
+    "GlobalMedia": RULE_URL + "GlobalMedia/GlobalMedia.list",
+    "GlobalMedia_Domain": RULE_URL + "GlobalMedia/GlobalMedia_Domain.list",
+    "Global": RULE_URL + "Global/Global.list",
+    "Global_Domain": RULE_URL + "Global/Global_Domain.list",
+    "Proxy": RULE_URL + "Proxy/Proxy.list",
+    "Proxy_Domain": RULE_URL + "Proxy/Proxy_Domain.list"
 }
 DIRECT_RULES = {
-    "China": RULE_URL + "China/China.yaml",
+    "China": RULE_URL + "China/China.list",
+    "China_Domain": RULE_URL + "China/China_Domain.list"
 }
 
 HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
