@@ -17,9 +17,9 @@ iOS平台上的Quantumultx、Loon、Stash、Shadowrocket等软件规则、规则
 
 
 
-国内直连（Direct）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/TooLs_Rules/refs/heads/main/rule/Direct-Rule/Direct-Rule.list
+国内直连（Direct）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/refs/heads/GitHub/Rules/Direct-Rule/Direct-Rule.list
 
-国际加速（Proxy）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/TooLs_Rules/refs/heads/main/rule/Proxy-Rule/Proxy-Rule.list
+国际加速（Proxy）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/refs/heads/GitHub/Rules/Proxy-Rule/Proxy-Rule.list
 
 
 
