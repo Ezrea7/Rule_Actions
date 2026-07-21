@@ -14,12 +14,12 @@ jobs:
 
     steps:
       - name: Checkout Current Repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@v7.0.1
         with:
           ref: GitHub
 
       - name: Checkout Upstream Rules
-        uses: actions/checkout@v7
+        uses: actions/checkout@v7.0.1
         with:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
