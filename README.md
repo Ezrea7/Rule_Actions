@@ -8,22 +8,6 @@
 
 
 
-## Egern分流规则、规则每日更新。
-
-其他软件禁止使用！
-
-
-# 远程规则文件
-
-每日自动更新。两大基础规则，满足一切需求。
-
-
-
-国内直连（Direct）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Rules/Direct-Rule/Direct-Rule.list
-
-国际加速（Proxy）链接（每日更新）：https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Rules/Proxy-Rule/Proxy-Rule.list
-
-
 
 
 # 访问量
