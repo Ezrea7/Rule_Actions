@@ -1,8 +1,0 @@
-# 规则名称: VipShop
-# 规则统计: 4
-
-domain_suffix_set:
-  - appsimg.com
-  - appvipshop.com
-  - vip.com
-  - vipstatic.com

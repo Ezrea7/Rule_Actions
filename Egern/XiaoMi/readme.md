@@ -1,3 +1,0 @@
-# 🧸 XiaoMi
-
-https://raw.githubusercontent.com/Ezrea7/Rules_Actions/GitHub/Egern/XiaoMi/XiaoMi.yaml

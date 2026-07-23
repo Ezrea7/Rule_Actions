@@ -1,9 +1,0 @@
-# 规则名称: Spark
-# 规则统计: 5
-
-domain_suffix_set:
-  - amplitude.com
-  - firebaseio.com
-  - hockeyapp.net
-  - readdle.com
-  - smartmailcloud.com

@@ -1,9 +1,0 @@
-# 规则名称: Buypass
-# 规则统计: 5
-
-domain_suffix_set:
-  - buypass-ssl.com
-  - buypass.com
-  - buypass.no
-  - buypass.se
-  - minid.no

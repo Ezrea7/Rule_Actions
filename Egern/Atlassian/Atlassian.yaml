@@ -1,9 +1,0 @@
-# 规则名称: Atlassian
-# 规则统计: 5
-
-domain_suffix_set:
-  - atlassian.com
-  - bitbucket.org
-  - statuspage.io
-  - trello.com
-  - trellocdn.com
